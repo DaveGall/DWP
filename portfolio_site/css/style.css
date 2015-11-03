@@ -1,0 +1,21 @@
+
+/*Start main body styling*/
+body {
+    background-color: #555555;
+}
+
+.container{
+    background-color: #ffffff;
+    margin-top: 40px;
+}
+.center{
+    text-align: center;
+}
+/*End main body styling*/
+/*Start styling for display boxes*/
+.leftDisplay, .middleDisplay, .rightDisplay{
+    height: 300px;
+    border: outset;
+}
+
+/*End styling for display boxes*/
