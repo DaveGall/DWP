@@ -1,5 +1,7 @@
 # DWP
 
+## Alt-Deployment Plan
+
 1. Create site
 2. Commit and Sync to Git
 3. Check to make sure the site is functioning
